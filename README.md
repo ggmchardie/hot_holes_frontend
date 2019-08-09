@@ -1,68 +1,181 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hot Hot Holes online ordering app
 
-## Available Scripts
+----
+### Site link: 
+[Hot Hot Holes](https://en.wikipedia.org/wiki/Markdown)
 
-In the project directory, you can run:
+### GitHub repos:
+[Frontend](https://en.wikipedia.org/wiki/Markdown)
 
-### `npm start`
+[Backend](https://en.wikipedia.org/wiki/Markdown)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Description
+> Hot Hot Holes online ordering app was built to give customers a more convenient option and allow the business owners to view all order easily.
 
-### `npm test`
+----
+## Functionality
+> The app displays the order options, takes in the order and displays it on an admin page in an index.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+>Frontend tech stack:
 
-### `npm run build`
+>1. React
+>2. Redux + Redux Thunk
+>3. Axios
+>4. Bootstrap + React Bootstrap
+>5. React DOM
+>6. React photo gallery
+>7. React Responsive Modal
+>8. React Router DOM
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+>Backend teach stack
+>1. Node
+>2. Forever
+>3. Nodemon
+>4. Mongoose
+>5. Express
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+----
+## Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+###Backend
+> 1. Clone repo form Github (Link above)
+> 2. cd into directory and run npm install
+> 3. run script 'npm run dev'
 
-### `npm run eject`
+###Frontend
+> 1. Clone repo form Github (Link above)
+> 2. cd into directory and run npm install
+> 3. run script 'npm start'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
+##Deploying app
+> 1. Clone repo form Github (Link above)
+> 2. cd into directory and run npm install
+> 3. run script 'npm start'
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+## App use
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**ADD SCREENSHOTS**
+1. Navigate to order online 
+2. Select order option
+3. Options will be added to admin page
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  *Auth still to be added for admin to login before orders can be used*
+  *Delete functionality to be added*
 
-## Learn More
+--- 
+## Design
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Process
+> I was provided with a one page, static site and a logo by the client. Following this I used the same colour scheme, similar font and their logo. I pulled some images from their instagram for the home page and used copyright free images where needed. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+###Static site
 
-### Code Splitting
+![Hot Hot Holes](https://i.imgur.com/Hof630r.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+[Hot Hot Holes](https://www.hothotholes.com/)
 
-### Analyzing the Bundle Size
+###User stories
+>**Rohan - ** 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+>Wants a place where his customers can pre-order online so as to increase sales and decrease wait time
 
-### Making a Progressive Web App
+>**Matt - ** 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+>Wants to be able to pre-order his food online so his ordering process is quicker/easier
 
-### Advanced Configuration
+> **Charles - ** 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+>Wants a place where he can find information about the business.
 
-### Deployment
+### Wireframes
+[Hot Hot Holes Wireframes](https://drive.google.com/file/d/1OTJCrIzukeCgaefX1I_DI2FPzP6fweAB/view?usp=sharing)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### Database Entity Relationship & Data Flow Diagram
+[Hot Hot Holes Database Entity Relationship & Data Flow Diagram](https://drive.google.com/file/d/1SIyNu8eNVSRY0bRyvMXOQvVd-VdTpcx9/view?usp=sharing)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+###OO design documentation
+ **INSERT**
+
+## Project Management & Planning process
+
+###Project plan & timeline
+> 3 days - backend
+
+> 2 days - frontend
+
+> 1 day - styling
+
+> 1 day - documentation
+
+*Actual:*
+> 4 days - backend
+
+> 2 days - frontend
+
+> 1 day - docs & styling 
+
+###Client communications
+
+**Clients - Hot Hot Holes, Eleanor McHardie & Rohan Burnside**
+
+> *Friday, 2/8/2019- * Initial meeting to discuss requirements.
+
+>*Monday, 3/8/2019 -  * Plan signed off.
+
+>*Friday, 9/8/2019 - * Last check.
+
+**Trello boards**
+
+![Trello](https://i.imgur.com/qNt95oJ.png)
+
+![Trello](https://i.imgur.com/vJYq2vp.png)
+
+![Trello](https://i.imgur.com/5kXitgX.png)
+
+![Trello](https://i.imgur.com/os6I2aI.png)
+
+![Trello](https://i.imgur.com/N4a7BNc.png)
+
+![Trello](https://i.imgur.com/sPZ92qx.png)
+
+![Trello](https://i.imgur.com/nprqKub.png)
+
+
+
+
+
+##Short Answer
+
+What are the most important aspects of quality software?
+
+> That it fits the requirements and functionality for all users and works correctly
+
+What libraries are being used in the app and why?
+
+> The app is built using the MERN stack (Mongoose, Express, React/Redux, Node). This Stack gives the app the power it needs and allows for further development. 
+
+A team is about to engage in a project, developing a website for a small business. What knowledge and skills would they need in order to develop the project?
+
+> - Agile Methodology
+
+> - Basic HTML/CSS
+
+> - Knowledge of network and database design
+
+> - Rails & Ruby and/or Javascript, Node and React
+
+> **Depends on requirements**
+
+Within your own project what knowledge or skills were required to complete your project, and overcome challenges?
+> Knowledge of how to integrate and use the Full tech stack I was needed. The greatest challenge I faced was that I did not have an in-depth understanding of how the stack all works together. I overcame this with patience, persistence and reaching out to others do have that knowledge.
+
+Evaluate how effective your knowledge and skills were this project, using examples, and suggest changes or improvements for future projects of a similar nature?
+>If viewed as a general learning experience, I feel I gained a lot. I learnt the best tools and libraries to use in future projects and how long generally each step in the build process realistically takes. In the future I would give myself more time and try to focus more time initially on the backend.
+
+
