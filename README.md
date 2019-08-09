@@ -2,12 +2,13 @@
 
 ----
 ### Site link: 
-[Hot Hot Holes](https://en.wikipedia.org/wiki/Markdown)
+**ISSUES WITH DEPLOYMENT**
+[Hot Hot Holes Heroku]("https://shrouded-bayou-84470.herokuapp.com/")
 
 ### GitHub repos:
-[Frontend](https://en.wikipedia.org/wiki/Markdown)
+[Frontend]("https://github.com/ggmchardie/hot_holes_frontend")
 
-[Backend](https://en.wikipedia.org/wiki/Markdown)
+[Backend](https://github.com/ggmchardie/hot_holes_backend)
 
 ---
 
