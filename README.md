@@ -71,7 +71,7 @@
 
 ![Hot Hot Holes Order](https://i.imgur.com/PT5UMBK.png)
 
-![Hot Hot Holes Contact](https://i.imgur.com/ZGVRKpM.png)
+![Hot Hot Holes Contact](https://i.imgur.com/SdkUPhI.png)
 
 ###Instructions
 1. Navigate to order online 
